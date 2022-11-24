@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbpcodes" alt="pbpcodes" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
